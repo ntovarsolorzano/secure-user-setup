@@ -6,5 +6,9 @@ Run
 
 `sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/ntovarsolorzano/secure-user-setup/main/secure-user-setup.sh)"`
 
+or
+
+`sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/ntovarsolorzano/secure-user-setup/main/secure-user-setup-all-one-v1.sh)"`
+
 1. The ubuntu folder won't be delete, just the user.
 2. If you are connected through SSH using `ubuntu`, you may get an error.
